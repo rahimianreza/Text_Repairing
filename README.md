@@ -1,2 +1,2 @@
 # Text_Repairing
-text repairing in digital image processing with Gaussian low pass filter
+text repairing in digital image processing with Gaussian low pass filter in matlab code
